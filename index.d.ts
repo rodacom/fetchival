@@ -1,2 +1,1 @@
-declare let fetchival: any;
-export default fetchival;
+declare var fetchival: any;
